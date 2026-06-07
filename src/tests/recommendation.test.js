@@ -1,6 +1,6 @@
 const {
     calcularPrioridade
-} = require("../../services/recommendationService")
+} = require("../services/recommendationService")
 
 test("calcula prioridade de prova", () => {
 

@@ -2,7 +2,7 @@ const {
     adicionarDisciplina,
     registrarHoras,
     listarDisciplinas
-} = require("../../services/studyService")
+} = require("../services/studyService")
 
 beforeEach(() => {
     listarDisciplinas().length = 0
