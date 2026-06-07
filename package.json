@@ -1,0 +1,16 @@
+{
+  "name": "projeto-pessoal-qt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "echo Build realizado com sucesso"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
